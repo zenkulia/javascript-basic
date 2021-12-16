@@ -1,1 +1,1 @@
-# javascript-basic
+### JavaScript code examples
